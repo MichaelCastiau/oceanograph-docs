@@ -23,4 +23,5 @@ jobs:
         with:
           push: true
           tags: registry.oceanograph.net/docs
-          platform: linux/amd64
+          platforms:
+            - linux/amd64
