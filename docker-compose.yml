@@ -1,6 +1,6 @@
 version: '3'
 services:
   docs:
-    image: repository.oceanograph.net/docs
+    image: registry.oceanograph.net/docs
     network_mode: host
     restart: unless-stopped
