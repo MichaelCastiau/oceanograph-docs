@@ -1,0 +1,16 @@
+{
+  "name": "oceanograph-docs",
+  "version": "1.0.0",
+  "description": "Docs for oceanograph.net",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "npx retype watch",
+    "build": "npx retype build",
+    "start": "npx retype run --port 4010"
+  },
+  "author": "Michael Castiau",
+  "license": "ISC",
+  "dependencies": {
+    "retypeapp": "^2.4.0"
+  }
+}
