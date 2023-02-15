@@ -11,4 +11,4 @@ This however does not mean that you shouldn't follow advice from experienced aqu
 all issues can be detected solely through water measurements. [Annotations](/analytics/annotations) also help
 link events in your tank (such as the addition of livestock or dosing of products) to fluctuations of your water values.
 
-The entry point of the analytics view is [this page](https://www.oceanograph.net/analytics) in the platform.
+The entry point of the analytics view is the  [analytics page](https://www.oceanograph.net/analytics) in the platform.
