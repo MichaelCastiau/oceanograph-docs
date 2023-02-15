@@ -34,6 +34,17 @@ Typically, lab tests are more expensive than home testing and take more time. Th
 recommends using a lab test once a month to test all trace elements in your salt and reverse osmosis water (if
 applicable).
 
+### PPM
+
+PPM stands for "parts per million". It is a unit of measurement used to express the concentration of a substance in a
+solution. In the context of a reef tank, PPM is often used to express the concentration of various minerals and
+nutrients, such as calcium, magnesium, and potassium, that are important for the growth and health of corals and other
+marine organisms.
+
+For example, if a nutrient has a concentration of 1 ppm in a solution, it means that there is one part of the nutrient
+for every one million parts of the solution. This can also be expressed as a percentage by multiplying the PPM value by
+0.0001.
+
 ### Titration Test
 
 A titration is a technique where a solution of known concentration is used to determine the
