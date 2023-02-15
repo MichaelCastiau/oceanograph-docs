@@ -40,3 +40,6 @@ your
 tank inhabitants will prosper in a healthy environment.
 
 > See: [Stability](/chemistry/stability)
+
+Your dashboard will indicate whether your test results are within an acceptable range. Values that should be monitored
+and/or adjusted will be displayed in orange or red colors.

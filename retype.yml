@@ -2,7 +2,7 @@ input: docs
 output: .retype
 url: docs.oceanograph.net
 branding:
-  title: Oceanograph
+  title: oceanograph.net
   label: Docs
 footer:
   copyright: "&copy; Copyright {{ year }} Michael Castiau. All rights reserved."
