@@ -13,7 +13,7 @@ effectively.
 
 ## Setup
 
-On the [tanks](https://wwww.oceanograph.net/tanks) page, **choose a name and configure the total volume of the tank.** (Sump included).
+On the [tanks](https://wwww.oceanograph.net/tanks) page, **choose a name and configure the total volume of the tank.** ([Sump](/glossary#sump) included).
 
 All of the data entered in the platform, as well as any annotations or notes you add, are automatically linked to your
 tank, providing a comprehensive record of your tank's history and health. This makes it easy for you to track changes

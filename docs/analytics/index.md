@@ -1,6 +1,7 @@
 ---
 route: /analytics
 icon: graph
+order: 801
 ---
 
 The Analytics capabilities of Oceanograph are the main power of the platform. Potential issues,

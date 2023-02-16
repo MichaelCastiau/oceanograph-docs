@@ -1,6 +1,7 @@
 ---
 title: Strontium and Barium
 label: Strontium and Barium
+route: /chemistry/strontium
 ---
 
 Strontium and barium are trace elements that are important for the health and growth of certain organisms in a reef

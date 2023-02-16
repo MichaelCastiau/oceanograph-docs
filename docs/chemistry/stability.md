@@ -1,6 +1,6 @@
 ---
-order: 4
 route: /chemistry/stability
+order: 799
 ---
 
 Stability is crucial for the health and success of a reef tank. In a reef tank, a delicate balance of water chemistry

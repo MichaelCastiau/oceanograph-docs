@@ -2,6 +2,7 @@
 title: Water Changes
 label: Water Changes
 route: /chemistry/water-changes
+order: 798
 ---
 
 In the context of maintaining a reef tank, a water change refers to the process of removing a portion of the water in

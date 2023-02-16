@@ -1,6 +1,7 @@
 ---
 title: Iron
 label: Iron
+route: /chemistry/iron
 ---
 
 Iron is an important trace element that plays a critical role in a reef tank. While it is only needed in small amounts,

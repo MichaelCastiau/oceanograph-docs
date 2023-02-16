@@ -45,6 +45,20 @@ For example, if a nutrient has a concentration of 1 ppm in a solution, it means 
 for every one million parts of the solution. This can also be expressed as a percentage by multiplying the PPM value by
 0.0001.
 
+### Sump
+
+A sump is a separate container or chamber that is connected to a reef tank and is used to house and hide various pieces
+of equipment that are necessary for the operation of the tank. The sump is typically located beneath the main tank, and
+water is gravity-fed from the main tank into the sump, where it is filtered, heated, and returned back to the main tank.
+
+In a reef tank, the sump serves several important functions. It provides additional water volume, which helps maintain
+stable water chemistry and temperature. It also allows for the placement of equipment, such as protein skimmers,
+heaters, and return pumps, which can be housed and hidden from view in the sump.
+
+The sump also provides a space for additional filtration, such as mechanical filtration, chemical filtration, and
+biological filtration. This can be achieved through the use of filter socks, filter media, and a refugium, which is a
+separate chamber within the sump that is used to cultivate beneficial microorganisms and macroalgae.
+
 ### Titration Test
 
 A titration is a technique where a solution of known concentration is used to determine the

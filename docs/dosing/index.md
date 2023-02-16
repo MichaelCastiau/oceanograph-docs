@@ -2,6 +2,7 @@
 label: Dosing
 title: Dosing
 icon: beaker
+order: 200
 ---
 In the context of a reef tank, dosing refers to the process of adding supplements or other products to the tank to help
 maintain the proper levels of important nutrients and trace elements. This can include products such as calcium,
