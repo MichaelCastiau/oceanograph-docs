@@ -9,6 +9,8 @@ route: /analytics/trends
 
 > At the time of writing, trends will show up on your [dashboard](https://www.oceanograph.net/dashboard) if applicable.
 
+![A trend indicating that phosphate levels are rising](./images/trend.png)
+
 When tracking nutrient levels in your reef tank, trends refer to the overall direction and rate of change of a
 particular nutrient level over time. For example, a trend might show that the level of nitrate in your reef tank is
 increasing steadily over the course of several weeks, indicating a potential problem with your tank's filtration system

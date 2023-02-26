@@ -24,8 +24,20 @@ have multiple tanks or if you want to create separate tanks for different types 
 
 A basic plan allows for a maximum of 2 tanks. Pro plans allow for a maximum of 5 tanks.
 
+![Your Default Tank](./images/tank.png)
+
+### Adding Your Own Tank Image
+
+You may choose to upload your own picture of your tank. This picture should not be greater than 1Mb in size. To do so, click the dropdown menu on the tank and choose 
+**Upload your own tank picture**. Follow the steps indicated.
+
+![Upload your own image](./images/tank-img.png)
+
 ## Selecting the Tank
 
 On the [dashboard](https://www.oceanograph.net/dashboard) page or any other page on the platform, the menu will present you with the tanks
 you have configured and allow you to select the tank you wish to analyse. All data shown on the platform is linked to the actively selected tank
 in the menu.
+
+
+![Select your active tank in the menu](./images/select-tank.png)

@@ -10,7 +10,7 @@ you with potential issues that need to be resolved, or scheduled maintenance or 
 
 It is your starting point in the Oceanograph platform.
 
-Your dashboard is also the place to add new test results (also referred to as measurements) to your tank.
+![An example of a dashboard with healthy test results](./images/dashboard.png)
 
 ## Parameters Summary
 
