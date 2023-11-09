@@ -4,13 +4,13 @@
   "description": "Docs for oceanograph.net",
   "main": "index.js",
   "scripts": {
-    "start:dev": "npx retype watch",
+    "start:dev": "npx retype start",
     "build": "npx retype build",
     "start": "npx retype run --port 4010"
   },
   "author": "Michael Castiau",
   "license": "ISC",
   "dependencies": {
-    "retypeapp": "^2.4.0"
+    "retypeapp": "^3.5.0"
   }
 }
